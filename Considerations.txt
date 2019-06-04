@@ -1,0 +1,1 @@
+This Approach can cause problem if you change method names with automatic refactoring tool, unless you include search into string (function not provided by Visual Studio)
